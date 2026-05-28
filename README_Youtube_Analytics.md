@@ -1,6 +1,6 @@
 # YouTube Analytics: Insights for Strategic Growth
 
-Analyzed two years of YouTube channel performance data to identify growth drivers, audience behavior, and optimization opportunities using Tableau dashboards and marketing analytics. Evaluated key metrics including impressions, CTR, traffic sources, watch time, and demographic engagement to develop data-driven recommendations for audience growth and content strategy.
+Analyzed two years of YouTube channel performance data to identify growth drivers, audience behavior, and optimization opportunities using Tableau dashboards and marketing analytics. Evaluated key metrics, including impressions, CTR, traffic sources, watch time, and demographic engagement to develop data-driven recommendations for audience growth and content strategy.
 
 ## Key Insights
 * Increased channel impressions to 1.09M (+265K YoY) while improving CTR to 4.06%
@@ -26,13 +26,12 @@ Analyzed two years of YouTube channel performance data to identify growth driver
 * Leverage YouTube Shorts and external platforms to expand reach and acquisition
 
 ## Tools & Skills
-Tableau
-Data Visualization
-Marketing Analytics
-Audience Segmentation
-KPI Reporting
-Performance Analysis
-Strategic Growth Analysis
+Tableau 
+Excel
+Data Visualization 
+Marketing & Growth Analytics
+Audience Segmentation & Behavioral Analysis
+KPI Tracking & Performance Reporting
 
 ## Confidentiality Notice
 
