@@ -12,9 +12,9 @@ Analyzed two years of YouTube channel performance data to identify growth driver
 ## Analytical Approach
 
 * Built Tableau dashboards to analyze:
-** Views, watch time, impressions, and CTR trends
-** Traffic source performance and conversion efficiency
-** Audience demographics and engagement behavior
+  * Views, watch time, impressions, and CTR trends
+  * Traffic source performance and conversion efficiency
+  * Audience demographics and engagement behavior
 * Conducted comparative analysis across traffic channels and audience segments
 * Developed strategic recommendations based on performance analytics and user behavior patterns
 
@@ -38,5 +38,3 @@ KPI Tracking & Performance Reporting
 All data disclosed and analyzed in this project is the property of the client of Nicole Martin Consulting. Data, materials, production strategy discussions, and all corresponding insights derived from this project are confidential and may not be copied, distributed, publicized, or shared outside the scope of this academic project.
 
 Permission for access to these materials was granted exclusively for educational purposes from November 1, 2024 through November 27, 2024. Upon completion of the project period, all printed and digital materials were required to be securely disposed of, with the exception of final student presentations.
-
-This repository is intended solely to showcase analytical methodology, strategic thinking, and data visualization skills. Any confidential client data has been removed or excluded in accordance with confidentiality requirements.
