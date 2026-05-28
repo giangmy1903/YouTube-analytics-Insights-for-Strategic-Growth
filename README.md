@@ -27,10 +27,15 @@ Analyzed two years of YouTube channel performance data to identify growth driver
 
 ## Tools & Skills
 Tableau 
+
 Excel
+
 Data Visualization 
+
 Marketing & Growth Analytics
+
 Audience Segmentation & Behavioral Analysis
+
 KPI Tracking & Performance Reporting
 
 ## Confidentiality Notice
